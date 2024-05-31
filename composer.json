@@ -1,0 +1,18 @@
+{
+    "name": "ruyahtech/manasahtech",
+    "description": "PHP framework to build strongly platforms.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ManasahTech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RuyahTech, SLLC",
+            "email": "dev@ruyahtech.com"
+        }
+    ],
+    "require": {}
+}
